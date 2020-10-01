@@ -43,8 +43,8 @@ app.get('/ventilatordetails',middleware.checkToken, function(req, res)
 // Search Ventilators by status and hospital name
 app.get('/getventbystatusandname',middleware.checkToken,function(req,res)
 {
-	let hspname = req.body.name;
-	let status = req.body.status;
+	let hspname = req.query.name;
+	let status = req.query.status;
 	console.log("Fetching the list of Ventilators");
 	var data = db.collection('ventilators').find({"name":new RegExp(hspname, 'i'),"status":status}).toArray().then(result => res.json(result));
 });
@@ -52,7 +52,7 @@ app.get('/getventbystatusandname',middleware.checkToken,function(req,res)
 // Search Ventilators by name
 app.get('/getventbyname',middleware.checkToken,function(req, res) 
 {
-    var hspname = req.body.name;
+    var hspname = req.query.name;
     console.log("Fetching the list of Ventilators");
     var ventilatordetails = db.collection('ventilators').find({'name' : new RegExp(hspname, 'i')}).toArray().then(result => res.json(result));
 });
@@ -60,7 +60,7 @@ app.get('/getventbyname',middleware.checkToken,function(req, res)
 // Search Ventilators by status
 app.get('/getventbystatus',middleware.checkToken,function(req,res)
 {
-	let status = req.body.status;
+	let status = req.query.status;
 	console.log("Fetching the list of Ventilators");
 	var data = db.collection('ventilators').find({"status":status}).toArray().then(result => res.json(result));
 });
