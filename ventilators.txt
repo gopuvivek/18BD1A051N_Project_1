@@ -1,0 +1,182 @@
+{
+        "_id" : ObjectId("5f7498f75b463481f559df68"),
+        "hId" : "H1",
+        "ventilatorId" : "H1V1",
+        "status" : "occupied",
+        "name" : "Apollo Hospitals"
+}
+{
+        "_id" : ObjectId("5f7498f75b463481f559df69"),
+        "hId" : "H1",
+        "ventilatorId" : "H1V2",
+        "status" : "occupied",
+        "name" : "Apollo Hospitals"
+}
+{
+        "_id" : ObjectId("5f7498f75b463481f559df6a"),
+        "hId" : "H1",
+        "ventilatorId" : "H1V3",
+        "status" : "occupied",
+        "name" : "Apollo Hospitals"
+}
+{
+        "_id" : ObjectId("5f7499ba5b463481f559df6b"),
+        "hId" : "H2",
+        "ventilatorId" : "H2V1",
+        "status" : "occupied",
+        "name" : "Apollo Hospitals"
+}
+{
+        "_id" : ObjectId("5f7499ba5b463481f559df6c"),
+        "hId" : "H2",
+        "ventilatorId" : "H2V2",
+        "status" : "occupied",
+        "name" : "Apollo Hospitals"
+}
+{
+        "_id" : ObjectId("5f7499ba5b463481f559df6d"),
+        "hId" : "H2",
+        "ventilatorId" : "H2V3",
+        "status" : "occupied",
+        "name" : "Apollo Hospitals"
+}
+{
+        "_id" : ObjectId("5f7499ba5b463481f559df6e"),
+        "hId" : "H2",
+        "ventilatorId" : "H2V4",
+        "status" : "available",
+        "name" : "Apollo Hospitals"
+}
+{
+        "_id" : ObjectId("5f7499ba5b463481f559df6f"),
+        "hId" : "H2",
+        "ventilatorId" : "H2V5",
+        "status" : "in-maintenance",
+        "name" : "Apollo Hospitals"
+}
+{
+        "_id" : ObjectId("5f749ae95b463481f559df70"),
+        "hId" : "H3",
+        "ventilatorId" : "H3V1",
+        "status" : "available",
+        "name" : "Yashoda Hospitals"
+}
+{
+        "_id" : ObjectId("5f749ae95b463481f559df71"),
+        "hId" : "H3",
+        "ventilatorId" : "H3V2",
+        "status" : "available",
+        "name" : "Yashoda Hospitals"
+}
+{
+        "_id" : ObjectId("5f749ae95b463481f559df72"),
+        "hId" : "H3",
+        "ventilatorId" : "H3V3",
+        "status" : "in-maintenance",
+        "name" : "Yashoda Hospitals"
+}
+{
+        "_id" : ObjectId("5f749ae95b463481f559df73"),
+        "hId" : "H3",
+        "ventilatorId" : "H3V4",
+        "status" : "available",
+        "name" : "Yashoda Hospitals"
+}
+{
+        "_id" : ObjectId("5f74a0da5b463481f559df74"),
+        "hId" : "H4",
+        "ventilatorId" : "H4V1",
+        "status" : "occupied",
+        "name" : "Apollo Hospitals"
+}
+{
+        "_id" : ObjectId("5f74a0da5b463481f559df75"),
+        "hId" : "H4",
+        "ventilatorId" : "H4V2",
+        "status" : "available",
+        "name" : "Apollo Hospitals"
+}
+{
+        "_id" : ObjectId("5f74a0da5b463481f559df76"),
+        "hId" : "H4",
+        "ventilatorId" : "H4V3",
+        "status" : "occupied",
+        "name" : "Apollo Hospitals"
+}
+{
+        "_id" : ObjectId("5f74a0da5b463481f559df77"),
+        "hId" : "H4",
+        "ventilatorId" : "H4V4",
+        "status" : "in-maintenance",
+        "name" : "Apollo Hospitals"
+}
+{
+        "_id" : ObjectId("5f74a1635b463481f559df78"),
+        "hId" : "H5",
+        "ventilatorId" : "H5V1",
+        "status" : "occupied",
+        "name" : "CARE Hospitals"
+}
+{
+        "_id" : ObjectId("5f74a1635b463481f559df79"),
+        "hId" : "H5",
+        "ventilatorId" : "H5V2",
+        "status" : "available",
+        "name" : "CARE Hospitals"
+}
+{
+        "_id" : ObjectId("5f74a1635b463481f559df7a"),
+        "hId" : "H5",
+        "ventilatorId" : "H5V3",
+        "status" : "in-maintenance",
+        "name" : "CARE Hospitals"
+}
+{
+        "_id" : ObjectId("5f74a1635b463481f559df7b"),
+        "hId" : "H5",
+        "ventilatorId" : "H5V4",
+        "status" : "in-maintenance",
+        "name" : "CARE Hospitals"
+}
+{
+        "_id" : ObjectId("5f74a28a5b463481f559df7c"),
+        "hId" : "H6",
+        "ventilatorId" : "H6V1",
+        "status" : "available",
+        "name" : "AIG Hospitals"
+}
+{
+        "_id" : ObjectId("5f74a28a5b463481f559df7d"),
+        "hId" : "H6",
+        "ventilatorId" : "H6V2",
+        "status" : "available",
+        "name" : "AIG Hospitals"
+}
+{
+        "_id" : ObjectId("5f74a28a5b463481f559df7e"),
+        "hId" : "H6",
+        "ventilatorId" : "H6V3",
+        "status" : "available",
+        "name" : "AIG Hospitals"
+}
+{
+        "_id" : ObjectId("5f74a2fc5b463481f559df7f"),
+        "hId" : "H7",
+        "ventilatorId" : "H7V1",
+        "status" : "available",
+        "name" : "American Oncology Institute"
+}
+{
+        "_id" : ObjectId("5f74a2fc5b463481f559df80"),
+        "hId" : "H7",
+        "ventilatorId" : "H7V2",
+        "status" : "occupied",
+        "name" : "American Oncology Institute"
+}
+{
+        "_id" : ObjectId("5f75ba289f14cb1f2c3ab254"),
+        "hId" : "H7",
+        "ventilatorId" : "H7V3",
+        "status" : "available",
+        "name" : "American Oncology Institute"
+}

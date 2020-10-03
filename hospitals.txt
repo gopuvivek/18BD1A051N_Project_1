@@ -1,0 +1,56 @@
+{
+        "_id" : ObjectId("5f741e88bbd73b03e4623af7"),
+        "hId" : "H1",
+        "name" : "Apollo Hospitals",
+        "location" : "17.398644, 78.484334",
+        "address" : "Plot No. 3-5-874/1 Near, Old MLA Quarters Rd, Hyderguda,Hyderabad,Telangana 500029",
+        "contactNo" : "040-23231380"
+}
+{
+        "_id" : ObjectId("5f741f36bbd73b03e4623af8"),
+        "hId" : "H2",
+        "name" : "Apollo Hospitals",
+        "location" : "16.398644, 45.484334",
+        "address" : "Rd Number 72, opp. Bharatiya Vidya Bhavan School, Jubilee Hills, Hyderabad, Telangana 500033",
+        "contactNo" : "1860 500 1066"
+}
+{
+        "_id" : ObjectId("5f741ff4bbd73b03e4623af9"),
+        "hId" : "H3",
+        "name" : "Yashoda Hospitals",
+        "location" : "21.387644, 32.334324",
+        "address" : "16-10-29, Nalgonda X Roads, Near New Market Metro station, Malakpet, Hyderabad, Telangana 500036",
+        "contactNo" : "040 4567 4567"
+}
+{
+        "_id" : ObjectId("5f742089bbd73b03e4623afa"),
+        "hId" : "H4",
+        "name" : "Apollo Hospitals",
+        "location" : "56.568644, 72.338829",
+        "address" : "Pollisetty Towers, St. John's Road, beside Keyes High School, Secunderabad, Telangana 500003",
+        "contactNo" : "1860 500 1066"
+}
+{
+        "_id" : ObjectId("5f742219bbd73b03e4623afb"),
+        "hId" : "H5",
+        "name" : "CARE Hospitals",
+        "location" : "78.4502685,17.4125702",
+        "address" : "Rd Number 1, Prem Nagar, Banjara Hills, Hyderabad, Telangana 500034",
+        "contactNo" : "040 6165 6565"
+}
+{
+        "_id" : ObjectId("5f7422d9bbd73b03e4623afc"),
+        "hId" : "H6",
+        "name" : "AIG Hospitals",
+        "location" : "17.4433649,78.3638096",
+        "address" : "No 136, Plot No 2/3/4/5 Survey, 1, Mindspace Rd, Gachibowli, Hyderabad, Telangana 500032",
+        "contactNo" : "040 424 44222"
+}
+{
+        "_id" : ObjectId("5f7424735b463481f559df67"),
+        "hId" : "H7",
+        "name" : "American Oncology Institute",
+        "location" : "17.4707179,78.3082446",
+        "address" : "1-100/1/CCH Citizens Hospital Road near Aparna Sarovar, Nallagandla, Serilingampally, Hyderabad, Telangana 500019",
+        "contactNo" : "1800 208 2000"
+}
