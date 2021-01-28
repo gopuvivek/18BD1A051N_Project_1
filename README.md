@@ -1,2 +1,2 @@
-# 18BD1A051N_Project_1
+# Hospitals' Ventilator Mangement
 JavaScript API for Management of Several Hospitals' Ventilators
